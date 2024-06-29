@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167384711766",
+    "project_id": "ewishes-e3caa",
+    "storage_bucket": "ewishes-e3caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167384711766:android:b112ed4bc176039a09b1f7",
+        "android_client_info": {
+          "package_name": "com.example.tops_project_greet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiokJepFgvVYiTZqJ8w3m-SP9ROpFG_Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
